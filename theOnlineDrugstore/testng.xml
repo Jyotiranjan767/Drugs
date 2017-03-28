@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="none"  >
+  <test name="Testonster">
+    <classes>
+      <class name="monster.update.testCases.Login_Mon"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test name="Testnaukri">
+    <classes>
+      <class name="com.update.testCases.Login_"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test name="Testdrugs">
+    <classes>
+      <class name="com.jyoti.theOnlineDrugstore.testcases.Login" />
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
