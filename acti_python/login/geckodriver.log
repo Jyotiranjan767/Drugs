@@ -1,0 +1,113 @@
+1519243607678	geckodriver	INFO	Listening on 127.0.0.1:50874
+1519243610062	mozprofile::profile	INFO	Using profile path C:\Users\luckie\AppData\Local\Temp\rust_mozprofile.N6eee15ODRZe
+1519243610077	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1519243610567	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50882
+1519243713918	geckodriver	INFO	Listening on 127.0.0.1:50980
+1519243716385	mozprofile::profile	INFO	Using profile path C:\Users\luckie\AppData\Local\Temp\rust_mozprofile.JzeeQ0SdpF9W
+1519243716408	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1519243716568	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50986
+1519243727495	Marionette	INFO	Enabled via --marionette
+[Child 6912, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6912, C1519243750979	Marionette	INFO	Listening on port 50986
+[Parent 4852, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1519243821255	geckodriver	INFO	Listening on 127.0.0.1:51076
+1519243823415	mozprofile::profile	INFO	Using profile path C:\Users\luckie\AppData\Local\Temp\rust_mozprofile.AkU1OO3Gi1jX
+1519243823465	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1519243823494	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51082
+1519243828310	Marionette	INFO	Enabled via --marionette
+1519243836849	Marionette	INFO	Listening on port 51082
+[Child 248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 248, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+:\Program Files\Mozilla Firefox\firefox.exe
+1519245378326	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51214
+1519245380732	Marionette	INFO	Enabled via --marionette
+1519245387121	Marionette	INFO	Listening on port 51214
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1519246051183	geckodriver	INFO	Listening on 127.0.0.1:51854
+1519246053294	mozprofile::profile	INFO	Using profile path C:\Users\luckie\AppData\Local\Temp\rust_mozprofile.A52GJTk7X6zc
+1519246053309	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1519246053401	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51860
+1519246259971	geckodriver	INFO	Listening on 127.0.0.1:51943
+1519246262024	mozprofile::profile	INFO	Using profile path C:\Users\luckie\AppData\Local\Temp\rust_mozprofile.tzSDHW3JNI7r
+1519246262039	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1519246262084	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51949
+1519246266396	Marionette	INFO	Enabled via --marionette
+1519246275774	Marionette	INFO	Listening on port 51949
+[Parent 2316, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2316, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+013
+1519246323347	Marionette	INFO	Enabled via --marionette
+1519246336107	Marionette	INFO	Listening on port 52013
+[Child 8132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8132,[GPU 812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+85	Marionette	INFO	Enabled via --marionette
+1519246474002	Marionette	INFO	Listening on port 52107
+1519246571597	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1519246526424	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1519246526499	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52189
+1519246531863	Marionette	INFO	Enabled via --marionette
+1519246547467	Marionette	INFO	Listening on port 52189
+[Parent 9012, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9012, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1519246569650	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1519293520386	geckodriver	INFO	Listening on 127.0.0.1:52512
+1519293522324	mozprofile::profile	INFO	Using profile path C:\Users\luckie\AppData\Local\Temp\rust_mozprofile.uoBiLpn6rp6E
+1519293522339	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1519293522464	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52521
+1519293525971	Marionette	INFO	Enabled via --marionette
+[Parent 6056, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1519293537063	Marionette	INFO	Listening on port 52521
+[Parent 6056, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+JavaScript error: resource:///modules/sessionstore/SessionSaver.jsm, line 186: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 [Parent 5144, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1519293609776	Marionette	INFO	Listening on port 52689
+[Parent 5144, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5144, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+032
+1519293773849	Marionette	INFO	Enabled via --marionette
+[Child 5120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1519293784832	Marionette	INFO	Listening on port 53032
+[Parent 2784, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 6468, Chrome_Child
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ Files\Mozilla Firefox\firefox.exe
+1519293796371	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53088
+1519293799413	Marionette	INFO	Enabled via --marionette
+1519293805990	Marionette	INFO	Listening on port 53088
+JavaScript error: https://fea.assettype.com/bloombergquint/assets/packs/application-1853e08b4afc0c6f1a05.js, line 1: TypeError: ga.getAll is not a function
+JavaScript error: https://fea.assettype.com/bloombergquint/assets/packs/application-1853e08b4afc0c6f1a05.js, line 1: TypeError: ga.getAll is not a function
+JavaScript error: https://fea.assettype.com/bloombergquint/assets/packs/application-1853e08b4afc0c6f1a05.js, line 1: TypeError: ga.getAll is not a function
+JavaScript error: https://fea.assettype.com/bloombergquint/assets/packs/application-1853e08b4afc0c6f1a05.js, line 1: TypeError: ga.getAll is not a function
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.onthe.io/io.js/67LjkUGuCHko, line 114: TypeError: _io_video_tracker.video_list.jwplayer.state is undefined
+JavaScript error: https://cdn.onthe.io/io.js/67LjkUGuCHko, line 114: TypeError: _io_video_tracker.video_list.jwplayer.state is undefined
+[Parent 6340, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6340, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
