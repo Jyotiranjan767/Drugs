@@ -1,0 +1,49 @@
+INFO:root:ran with args : ('john', 23), and kwargs : {} 
+INFO:root:ran with args : ('luckie', 26), and kwargs : {} 
+INFO:root:ran with args : ('luckie', 26), and kwargs : {} 
+INFO:root:ran with args : ('luckie', 26), and kwargs : {} 
+INFO:root:ran with args : ('luckie', 26), and kwargs : {} 
+INFO:root:ran with args : ('luckie', 26), and kwargs : {} 
+INFO:root:ran with args : ('luckie', 26), and kwargs : {} 
+INFO:root:ran with args : ('luckie', 26), and kwargs : {'count': 1} 
+INFO:root:ran with args : ('luckie', 26), and kwargs : {'count': 1} 
+INFO:root:ran with args : ('luckie', 26), and kwargs : {'count': 1} 
+INFO:root:ran with args : ('luckie', 26), and kwargs : {'count': 1} 
+INFO:root:ran with args : ('luckie', 26), and kwargs : {'count': 1} 
+INFO:root:ran with args : ('luckie', 26), and kwargs : {'count': 1} 
+INFO:root:ran with args : ('luckie', 26), and kwargs : {'count': 1} 
+INFO:root:ran with args : ('luckie', 26), and kwargs : {'count': 1} 
+INFO:root:ran with args : ('luckie', 26), and kwargs : {'count': 1} 
+INFO:root:ran with args : ('luckie', 26), and kwargs : {'count': 1} 
+INFO:root:ran with args : ('luckie', 26), and kwargs : {'count': 1} 
+INFO:root:ran with args : ('luckie', 26, 1), and kwargs : {} 
+INFO:root:ran with args : ('luckie', 26, 1), and kwargs : {} 
+INFO:root:ran with args : ('luckie', 26, 1), and kwargs : {} 
+INFO:root:ran with args : ('luckie', 26, 1), and kwargs : {} 
+INFO:root:ran with args : ('luckie', 26, 1), and kwargs : {} 
+INFO:root:ran with args : ('jyoti', 25, 1), and kwargs : {} 
+INFO:root:ran with args : ('jyoti', 25, 1), and kwargs : {} 
+INFO:root:ran with args : ('jyoti', 25, 1), and kwargs : {} 
+INFO:root:ran with args : ('jyoti', 25, 1), and kwargs : {} 
+INFO:root:ran with args : ('jyoti', 25, 1), and kwargs : {} 
+INFO:root:ran with args : ('jyoti', 25, 1), and kwargs : {} 
+INFO:root:ran with args : ('jyoti', 25, 1), and kwargs : {} 
+INFO:root:ran with args : ('jyoti', 25, 1), and kwargs : {} 
+INFO:root:ran with args : ('jyoti', 25, 1), and kwargs : {} 
+INFO:root:ran with args : ('jyoti', 25, 1), and kwargs : {} 
+INFO:root:ran with args : ('jyoti', 25, 1), and kwargs : {} 
+INFO:root:ran with args : ('jyoti', 25, 1), and kwargs : {} 
+INFO:root:ran with args : ('jyoti', 25, 1), and kwargs : {} 
+INFO:root:ran with args : ('jyoti', 25, 1), and kwargs : {} 
+INFO:root:ran with args : ('jyoti', 25, 1), and kwargs : {} 
+INFO:root:ran with args : ('jyoti', 25, 1), and kwargs : {} 
+INFO:root:ran with args : ('jyoti', 25, 1), and kwargs : {} 
+INFO:root:ran with args : ('jyoti', 25, 1), and kwargs : {} 
+INFO:root:ran with args : ('jyoti', 25, 1), and kwargs : {} 
+INFO:root:ran with args : ('jyoti', 25, 1), and kwargs : {} 
+INFO:root:ran with args : ('jyoti', 25, 1), and kwargs : {} 
+INFO:root:ran with args : ('jyoti', 25, 1), and kwargs : {} 
+INFO:root:ran with args : ('jyoti', 25, 1), and kwargs : {} 
+INFO:root:ran with args : ('jyoti', 25, 1), and kwargs : {} 
+INFO:root:ran with args :() and {} 
+INFO:root:ran with args :('loser', 23) and {} 
