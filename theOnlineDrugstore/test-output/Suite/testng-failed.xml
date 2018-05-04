@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Testdrugs(failed)">
+    <classes>
+      <class name="com.jyoti.theOnlineDrugstore.testcases.Login">
+        <methods>
+          <include name="login"/>
+          <include name="addToCart"/>
+        </methods>
+      </class> <!-- com.jyoti.theOnlineDrugstore.testcases.Login -->
+    </classes>
+  </test> <!-- Testdrugs(failed) -->
+</suite> <!-- Failed suite [Suite] -->

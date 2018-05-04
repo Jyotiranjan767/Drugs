@@ -1,0 +1,70 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 5, Errors: 0, Skipped: 0, Time elapsed: 85.764 sec <<< FAILURE! - in TestSuite
+login(monster.update.testCases.Login_Mon)  Time elapsed: 21.468 sec  <<< FAILURE!
+org.openqa.selenium.NoSuchElementException: 
+no such element: Unable to locate element: {"method":"xpath","selector":".//*[@id='update_pfbtn']/a"}
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9),platform=Windows NT 10.0.14393 x86) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 86 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.42.0', revision: '5e824302019c86eae9c8c3ca9155e7307b410cf8', time: '2014-05-24 09:48:41'
+System info: host: 'DESKTOP-GBQT2QC', ip: '172.18.24.180', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9), userDataDir=C:\Users\luckie\AppData\Local\Temp\scoped_dir6748_6910}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: da678ea24c37a13fd1b32bb14893c78e
+	at monster.update.testCases.Login_Mon.login(Login_Mon.java:16)
+
+logout(com.update.testCases.Login_)  Time elapsed: 1.227 sec  <<< FAILURE!
+org.openqa.selenium.ElementNotVisibleException: 
+element not visible
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9),platform=Windows NT 10.0.14393 x86) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 53 milliseconds
+Build info: version: '2.42.0', revision: '5e824302019c86eae9c8c3ca9155e7307b410cf8', time: '2014-05-24 09:48:41'
+System info: host: 'DESKTOP-GBQT2QC', ip: '172.18.24.180', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9), userDataDir=C:\Users\luckie\AppData\Local\Temp\scoped_dir6748_6910}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: da678ea24c37a13fd1b32bb14893c78e
+	at com.update.testCases.Login_.logout(Login_.java:22)
+
+login(com.jyoti.theOnlineDrugstore.testcases.Login)  Time elapsed: 28.562 sec  <<< FAILURE!
+org.openqa.selenium.WebDriverException: 
+chrome not reachable
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9),platform=Windows NT 10.0.14393 x86) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4.05 seconds
+Build info: version: '2.42.0', revision: '5e824302019c86eae9c8c3ca9155e7307b410cf8', time: '2014-05-24 09:48:41'
+System info: host: 'DESKTOP-GBQT2QC', ip: '172.18.24.180', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9), userDataDir=C:\Users\luckie\AppData\Local\Temp\scoped_dir6748_6910}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: da678ea24c37a13fd1b32bb14893c78e
+	at com.jyoti.theOnlineDrugstore.testcases.Login.login(Login.java:15)
+
+nutriBags(com.jyoti.theOnlineDrugstore.testcases.Login)  Time elapsed: 4.036 sec  <<< FAILURE!
+org.openqa.selenium.WebDriverException: 
+chrome not reachable
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9),platform=Windows NT 10.0.14393 x86) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4.04 seconds
+Build info: version: '2.42.0', revision: '5e824302019c86eae9c8c3ca9155e7307b410cf8', time: '2014-05-24 09:48:41'
+System info: host: 'DESKTOP-GBQT2QC', ip: '172.18.24.180', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9), userDataDir=C:\Users\luckie\AppData\Local\Temp\scoped_dir6748_6910}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: da678ea24c37a13fd1b32bb14893c78e
+	at com.jyoti.theOnlineDrugstore.testcases.Login.nutriBags(Login.java:21)
+
+addToCart(com.jyoti.theOnlineDrugstore.testcases.Login)  Time elapsed: 4.631 sec  <<< FAILURE!
+org.openqa.selenium.WebDriverException: 
+chrome not reachable
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9),platform=Windows NT 10.0.14393 x86) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4.63 seconds
+Build info: version: '2.42.0', revision: '5e824302019c86eae9c8c3ca9155e7307b410cf8', time: '2014-05-24 09:48:41'
+System info: host: 'DESKTOP-GBQT2QC', ip: '172.18.24.180', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9), userDataDir=C:\Users\luckie\AppData\Local\Temp\scoped_dir6748_6910}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: da678ea24c37a13fd1b32bb14893c78e
+	at com.jyoti.theOnlineDrugstore.testcases.Login.addToCart(Login.java:25)
+
