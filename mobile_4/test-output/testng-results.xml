@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="370" started-at="2017-02-14T18:00:13Z" finished-at="2017-02-14T18:00:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="370" started-at="2017-02-14T18:00:13Z" finished-at="2017-02-14T18:00:13Z">
+      <class name="appium.Appium_1">
+        <test-method status="PASS" signature="kdsf()[pri:0, instance:appium.Appium_1@6d8a00e3]" name="kdsf" duration-ms="66" started-at="2017-02-14T23:30:13Z" finished-at="2017-02-14T23:30:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- kdsf -->
+      </class> <!-- appium.Appium_1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
